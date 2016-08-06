@@ -1,0 +1,20 @@
+{
+  "name": "uploaddataapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "uploadDataApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "ejs": "^2.4.2",
+    "express": "^4.13.4",
+    "jade": "^1.11.0",
+    "mongoose": "^4.4.20",
+    "multer": "^1.1.0",
+    "validator": "^5.4.0"
+  }
+}

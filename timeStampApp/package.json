@@ -1,0 +1,17 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "timeStampApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.19",
+    "validator": "^5.3.0"
+  }
+}

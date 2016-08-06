@@ -1,0 +1,17 @@
+{
+  "name": "imagesearchapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "imageSearchApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "encoder": "^0.2.4",
+    "express": "^4.13.4",
+    "int-encoder": "^1.0.0",
+    "mongoose": "^4.4.20"
+  }
+}
